@@ -1,5 +1,5 @@
 enum Color { white, black }
-enum Weekday { sunday, monday, tuesday, wednesday, thursday }
+enum Weekday { sunday, monday, tuesday, wednesday, thursday, friday }
 enum PlanetType { terrestrial, gas, ice }
 enum Weather { sunny, cloudy, rainy }
 
